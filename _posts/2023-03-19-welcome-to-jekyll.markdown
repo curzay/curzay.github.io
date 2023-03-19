@@ -7,7 +7,7 @@ categories: jekyll update
 
 <embed 
        type="text/html" 
-       src="/bokeh/periodic.html"
+       src="/../periodic.html"
        width="1100"
        height="600"
        >

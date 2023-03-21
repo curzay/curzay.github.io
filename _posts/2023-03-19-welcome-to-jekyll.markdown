@@ -27,7 +27,7 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 
 This is the periodic table graph:
 
-{% include periodic.html %}
+{% include attempt1.html %}
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll

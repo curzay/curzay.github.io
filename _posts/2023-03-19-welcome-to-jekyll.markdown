@@ -25,9 +25,14 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-intento embed type="text/html" src="relative/path/to/example.html" width="600" height="400"embed:
+Esto es con attempt1:
 
-<embed type="text/html" src="relative/path/to/attempt1.html" width="600" height="400"></embed>
+<embed 
+       type="text/html" 
+       src="/../figures/attempt1.html"
+       width="1100"
+       height="600"
+       >
 
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
